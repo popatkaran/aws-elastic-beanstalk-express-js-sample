@@ -10,3 +10,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Resource
+
+[Hands On: CI/CD](https://aws.amazon.com/getting-started/hands-on/create-continuous-delivery-pipeline)
